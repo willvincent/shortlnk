@@ -33,7 +33,7 @@ export default class LinksVisibilityToggle extends React.Component {
           onChange={(e) => {
             Session.set('showVisible', !e.target.checked)
           }} />
-        show hidden links
+        Show hidden links
       </label>
     )
   }
