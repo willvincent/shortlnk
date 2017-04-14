@@ -1,0 +1,39 @@
+// Colors
+$gray: #dddddd;
+$light-gray: lighten($gray, 11.3%);
+$dark-gray: darken($gray, 30%);
+$purple: #5b4681;
+$white: white;
+
+// Spacing
+$space: 1.4rem;
+$site-max-width: 50rem;
+
+// Font Sizes
+$base-font-size: $space;
+$large-font-size: 1.8rem;
+
+// Form inputs
+$input-border: $gray;
+$input-spacing: 1rem;
+
+// Boxed view
+$boxed-view-overlay-bg: $gray;
+$boxed-view-bg: $white;
+
+// Button
+$button-bg: $purple;
+$button-color: $white;
+$button-pill-color: $purple;
+$button-secondary-bg: $light-gray;
+$button-secondary-color: $dark-gray;
+$button-secondary-border-color: $gray;
+
+// Header
+$header-bg: $purple;
+$header-color: $white;
+
+// Item
+$item-bg: $light-gray;
+$item-border-color: $dark-gray;
+$item-text-color: $dark-gray;
